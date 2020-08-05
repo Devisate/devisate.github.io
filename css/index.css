@@ -478,7 +478,7 @@ input[type="radio"]:checked + #roxo{
 }
 
 #slide1{
-    background-image: url(cd1.jpg);
+    background-image: url("../img/cd1.jpg");
     border: 2px solid black;
     background-size: 100% 100%;
     position: absolute;
@@ -490,7 +490,7 @@ input[type="radio"]:checked + #roxo{
 }
 
 #slide2{
-    background-image: url(cd2.jpg);
+    background-image: url("../img/cd2.jpg");
     border: 2px solid black;
     background-size: 100% 100%;
     position: absolute;
@@ -501,7 +501,7 @@ input[type="radio"]:checked + #roxo{
 }
 
 #slide3{
-    background-image: url(cd3.jpg);
+    background-image: url("../img/cd3.jpg");
     border: 2px solid black;
     background-size: 100% 100%;
     position: absolute;
@@ -512,7 +512,7 @@ input[type="radio"]:checked + #roxo{
 }
 
 #slide4{
-    background-image: url(cd4.jpg);
+    background-image: url("../img/cd4.jpg");
     border: 2px solid black;
     background-size: 100% 100%;
     position: absolute;
@@ -523,7 +523,7 @@ input[type="radio"]:checked + #roxo{
 }
 
 #slide5{
-    background-image: url(cd5.jpg);
+    background-image: url("../img/cd5.jpg");
     border: 2px solid black;
     background-size: 100% 100%;
     position: absolute;
